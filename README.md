@@ -18,23 +18,31 @@ Design a file system checker for our file system.  You should call it csefsck.  
   - if indirect!=0, size should be greater than (blocksize*length of location array-1)<br>
 
 
-## Installation
+## Configuration
+
+Fork this project in your GitHub account, then clone your repository:
+
+  Run the following query on terminal.
+  ```
+  git clone http://github.com/vaibhavagg12393/Interview_GetGrist.git
+  ```
 
 Instructions to import java-json.jar file to Eclipse
   
-   A.) Download the ZIP file from this URL and extract it to get the Jar.<br>
-       http://www.java2s.com/Code/JarDownload/java/java-json.jar.zip<br>
+   A.) Download the ZIP file from this ['URL'](http://www.java2s.com/Code/JarDownload/java/java-json.jar.zip) and extract it to get the Jar in the cloned directory.<br>
+       
    B.) Add the Jar to your build path.<br><br>
-  	   To Add this Jar to your build path, follow these steps:<br>
-        Right click the Project > 
-       				Build Path > 
-       	   Configure build path>
-        	  Select Libraries tab >
-  	     Click Add External Libraries >
-        Select the Jar file Download<br>
-   C.) Compile and run the code<br>
+  	   To Add this Jar to your build path, follow these steps:
+  	   
+```
+        Right click the Project > Build Path > Configure build path > Select Libraries tab > 
+        Click Add External Libraries > Select the Jar file Download
+       
+```
+        
+   C.) Compile and run the code in any IDE ( I used Eclipse)<br>
    D.) Comments have been provided throughout the code for a better understanding.<br>
 
 ## Additional
-Same project have been code using Python. Link is given below:<br>
-https://github.com/vaibhavagg12393/File-System-Checker---Python.git
+Same project have been code using Python. Click ['here'] (https://github.com/vaibhavagg12393/File-System-Checker---Python.git) to open Python code.
+
